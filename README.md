@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full Stack Data Science course
 - 📫 How to reach me ...
 -    linkedIn profile--https://www.linkedin.com/in/vivek-mishra-3655b6134/
--    Instagram -- https://www.instagram.com/its_mishra_ji_19/
+-    Email -- viveksmishra100@gmail.com
 
 <!---
 vivekMishra121/vivekMishra121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
